@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GeLee-Q
-- 👀 I’m interested in VLLM, TensorRT-LLM, CUDA, Megatron 
-- 🌱 I’m currently learning CMU 10-714
+- 👀 I’m interested in VLLM, TensorRT-LLM, Megatron 
 - 📫 How to reach me leege233@gmail.com
 
 <!---
