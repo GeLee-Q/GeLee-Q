@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1319" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1231" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1237,22 +1237,82 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#33211 add self.head_dim for VisionAttention in Qwen2-VL</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">GeLee-Q/transformers</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by GeLee-Q in <span class="repo">huggingface/transformers</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            We'll merge #33161 soon, which should add more tests and fix slow CI. You can then rebase
-                                            <code>main</code>
-                                            to get a green CI :)
-                                        </i>
-                                        @zucchini-nlp Hello, I've modified and resolved the conflicting code. Could you please trigger the action and merge it when convenient? Thank you!
+                                    <div>on branch <span class="code">fix-a-bug-for-qwen2vl</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#61f5be4</div>
+                                        <div class="message">use ruff fix ci</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">GeLee-Q/transformers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix-a-bug-for-qwen2vl</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48fc376</div>
+                                        <div class="message">commit for rebase</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81cfb00</div>
+                                        <div class="message">remove unused import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#811d745</div>
+                                        <div class="message">[run-slow] qwen2_vl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0000ee0</div>
+                                        <div class="message">use ruff to fix the ci error I001</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7074554</div>
+                                        <div class="message">fix the import format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14b4b2b</div>
+                                        <div class="message">use tying for python3.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35e321b</div>
+                                        <div class="message">[run-slow] qwen2_vl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93837d2</div>
+                                        <div class="message">use ruff to format test_modeling_qwen2_vl.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#774e6d5</div>
+                                        <div class="message">black the test_modeling_qwen2_vl.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b57e90</div>
+                                        <div class="message">fix ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51e601b</div>
+                                        <div class="message">add self.head_dim for VisionAttention in Qwen2-VL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81e26c5</div>
+                                        <div class="message">add self.head_dim for VisionAttention in Qwen2-VL</div>
                                     </div>
                                 </div>
                             </section>
@@ -1269,10 +1329,12 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-a-bug-for-qwen2vl</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#baba6b3</div>
-                                        <div class="message">remove unused import</div>
+                                        <div class="sha">#1759bb9</div>
+                                        <div class="message">Fix: StaticCache &amp; `inputs_embeds` (#32932)
+
+squash commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -1284,769 +1346,208 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 56 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">GeLee-Q/transformers</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-a-bug-for-qwen2vl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#97c0f45</div>
-                                        <div class="message">Generate: fix assistant in different device (#33257)</div>
+                                        <div class="sha">#1bfdbb7</div>
+                                        <div class="message">Merge branch 'huggingface:main' into fix-a-bug-for-qwen2vl</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">GeLee-Q/transformers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5792c45</div>
+                                        <div class="message">Add a community notebook for fine-tuning with QLoRA, PEFT, and MLflow (#33319)
+
+add notebook for finetuning with mlflow
+
+Signed-off-by: Daniel Lok &lt;daniel.lok@databricks.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#52a0213</div>
-                                        <div class="message">Add assistant prefill for chat templates and TextGenerationPipeline (#33198)
+                                        <div class="sha">#21fac7a</div>
+                                        <div class="message">simple align qwen2vl kv_seq_len calculation with qwen2 (#33161)
 
-* Add assistant prefill to chat templates
+* qwen2vl_align_kv_seqlen_to_qwen2
 
-* Add assistant prefill to pipeline
+* flash att test
 
-* Add assistant prefill to pipeline
+* [run-slow] qwen2_vl
 
-* Tweak another test that ended in assistant message
+* [run-slow] qwen2_vl fix OOM
 
-* Update tests that ended in assistant messages
+* [run-slow] qwen2_vl
 
-* Update tests that ended in assistant messages
+* Update tests/models/qwen2_vl/test_modeling_qwen2_vl.py
 
-* Replace assistant_prefill with continue_final_message
+Co-authored-by: Raushan Turganbay &lt;raushan.turganbay@alumni.nu.edu.kz&gt;
 
-* Allow passing continue_final_message to pipeline
+* Update tests/models/qwen2_vl/test_modeling_qwen2_vl.py
 
-* Small fixup
+Co-authored-by: Raushan Turganbay &lt;raushan.turganbay@alumni.nu.edu.kz&gt;
 
-* Add continue_final_message as a pipeline kwarg
-
-* Update docstrings
-
-* Move repos to hf-internal-testing!
-
-* Update src/transformers/tokenization_utils_base.py
-
-Co-authored-by: Lysandre Debut &lt;hi@lysand.re&gt;
-
-* Add explanatory comment
-
-* make fixup
-
-* Update chat templating docs to explain continue_last_message
+* code quality
 
 ---------
 
-Co-authored-by: Lysandre Debut &lt;hi@lysand.re&gt;</div>
+Co-authored-by: baishuai.bs &lt;1051314669@qq.com&gt;
+Co-authored-by: ShuaiBai623 &lt;baishuai623@icloud.com&gt;
+Co-authored-by: ShuaiBai623 &lt;43326198+ShuaiBai623@users.noreply.github.com&gt;
+Co-authored-by: Raushan Turganbay &lt;raushan.turganbay@alumni.nu.edu.kz&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2d37085</div>
-                                        <div class="message">Bump opencv-python from 4.4.0.42 to 4.8.1.78 in /examples/research_projects/lxmert (#33227)
+                                        <div class="sha">#5d11de4</div>
+                                        <div class="message">Add Qwen2Moe GGUF loading support  (#33264)
 
-Bump opencv-python in /examples/research_projects/lxmert
+* update gguf doc, config and tensor mapping
 
-Bumps [opencv-python](https://github.com/opencv/opencv-python) from 4.4.0.42 to 4.8.1.78.
-- [Release notes](https://github.com/opencv/opencv-python/releases)
-- [Commits](https://github.com/opencv/opencv-python/commits)
+* add qwen2moe architecture support, GGUFQwen2MoeConverter and q4 unit tests
 
----
-updated-dependencies:
-- dependency-name: opencv-python
-  dependency-type: direct:production
-...
+* apply code style fixes
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+* reformat files
+
+* assign GGUFQwen2Converter to qwen2_moe</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#963ed98</div>
-                                        <div class="message">docs: Replace package abbreviations with full name(`bitsandbytes`) in docstrings (#33230)
+                                        <div class="sha">#132e875</div>
+                                        <div class="message">Update SECURITY.md (#32680)
 
-* docs: Provide fullname for `bitsandbytes` package
-
-* docs: Provide fullname for `bitsandbytes` package (2)</div>
+updated reporting a vulnerability section</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#409fcfd</div>
-                                        <div class="message">Fix: Suppressed 'use_reentrant=False' warning (#33208)
+                                        <div class="sha">#c6d2848</div>
+                                        <div class="message">🚨 Fix `torch.jit.trace` for `interpolate_pos_encoding` in all vision models (#33226)
 
-Co-authored-by: Ankush &lt;ankush13r&gt;</div>
+* Fix `torch.jit.tracing` for `interpolate_pos_encoding` in all vision models
+
+* Apply formatting
+
+* Add missing `self.config = config`
+
+* Fix copies
+
+* Fix hiera interpolation unit test
+
+* Formatting
+
+* Update `_import_structure`
+
+* make style
+
+* Fix docstring
+
+* Use `# Copied from` instead of utils
+
+* DeiT variable renaming (`class_and_dist_pos_embed`)
+
+* Fix Hiera `interpolate_pos_encoding`</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1ca9ff5</div>
-                                        <div class="message">Add duckduckgo search tool (#32882)
-
-* Add duckduckgo search tool</div>
+                                        <div class="sha">#03164ba</div>
+                                        <div class="message">Add paper link (#33305)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b9bc691</div>
-                                        <div class="message">Add GraniteRMSNorm (#33177)
+                                        <div class="sha">#47b0964</div>
+                                        <div class="message">Fix: Fix `FalconMamba` training issues due to incompatible kernels (#33195)
 
-* Add GraniteRMSNorm
+* fix FM training kernels
 
-* [run_slow] granite</div>
+* fix copies
+
+* fix copies
+
+* propagate to slow path
+
+* make it BC
+
+* add comment
+
+* fix test</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2e3f8f7</div>
-                                        <div class="message">Add video text to text docs (#33164)
+                                        <div class="sha">#43df47d</div>
+                                        <div class="message">Llava Onevision: add model (#32673)
 
+* working version
 
----------
-
-Co-authored-by: Steven Liu &lt;59462357+stevhliu@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb5b968</div>
-                                        <div class="message">Generate: throw warning when `return_dict_in_generate` is False but should be True (#33146)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#746104b</div>
-                                        <div class="message">Test fetcher: missing return on filtered tests; don't write empty files (#33224)
-
-* missing return
-
-* skip files without contents
-
-* test 2
-
-* dbg
-
-* dbg
-
-* how about this?</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51e6526</div>
-                                        <div class="message">Fix red amin (#33220)
-
-* fix
-
-* oups
-
-* oups
-
-* proper fix
-
-* forget about that
-
-* arf
-
-* ish</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db70426</div>
-                                        <div class="message">🌐 [i18n-KO] Translated `llm_optims.md` to Korean (#32325)
-
-* docs: ko: llm_optims.md
-
-* feat: nmt draft
-
-* fix toc title
-
-* fix: manual edits
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: HyunJi Shin &lt;74661937+shinhyunji36@users.noreply.github.com&gt;
-
-* Update docs/source/ko/llm_optims.md
-
-Co-authored-by: HyunJi Shin &lt;74661937+shinhyunji36@users.noreply.github.com&gt;
-
-* Update llm_optims.md
-
-* fix: resolve suggestions
-
-* fix: resolve suggestions
-
-* Apply suggestions from code review
-
-fix: resolve suggestions
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: Jiwook Han &lt;33192762+mreraser@users.noreply.github.com&gt;
-Co-authored-by: HyunJi Shin &lt;74661937+shinhyunji36@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c79bfc7</div>
-                                        <div class="message">Create local Transformers Engine (#33218)
-
-* Create local Transformers Engine</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b017a9e</div>
-                                        <div class="message">Refactor CI: more explicit (#30674)
-
-* don't run custom when not needed?
-
-* update test fetcher filtering
-
-* fixup and updates
+* fix copies
 
 * update
 
-* update
+* tests
 
-* reduce burden
+* update docs
 
-* nit
+* codestyle
 
-* nit
+* add more tests
 
-* mising comma
+* add returns for docs
 
-* this?
+* clean up
 
-* this?
+* Update src/transformers/models/llava_onevision/processing_llava_onevision.py
 
-* more parallelism
+Co-authored-by: amyeroberts &lt;22614925+amyeroberts@users.noreply.github.com&gt;
 
-* more
+* updates
 
-* nit for real parallelism on tf and torch examples
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update to make it more custom
-
-* update to make it more custom
-
-* update to make it more custom
-
-* update to make it more custom
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* use correct path
-
-* fix path to test files and examples
-
-* filter-tests
-
-* filter?
-
-* filter?
-
-* filter?
-
-* nits
-
-* fix naming of the artifacts to be pushed
-
-* list vs files
-
-* list vs files
-
-* fixup
-
-* fix list of all tests
-
-* fix the install steps
-
-* fix the install steps
-
-* fix the config
-
-* fix the config
-
-* only split if needed
-
-* only split if needed
-
-* extend should fix it
-
-* extend should fix it
-
-* arg
-
-* arg
-
-* update
-
-* update
-
-* run tests
-
-* run tests
-
-* run tests
-
-* more nits
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* update
-
-* simpler way to show the test, reduces the complexity of the generated config
-
-* simpler way to show the test, reduces the complexity of the generated config
+* codestyle
 
 * style
 
-* oups
+* shouldn't be reversed
 
-* oups
+* [run-slow] llava_onevision
 
-* fix import errors
+* [run-slow] llava_onevision
 
-* skip some tests for now
+* add pooling in videos
 
-* update doctestjob
+* [run-slow] llava_onevision
 
-* more parallelism
+* num-logits-to-keep
 
-* fixup
+* [run-slow] llava_onevision
 
-* test only the test in examples
+* [run-slow] llava_onevision
 
-* test only the test in examples
+* Update tests/test_modeling_common.py
 
-* nits
+Co-authored-by: amyeroberts &lt;22614925+amyeroberts@users.noreply.github.com&gt;
 
-* from Arthur
+* video matched orig impl
 
-* fix generated congi
+* fix tests
 
-* update
+* chat template was modified
 
-* update
+* Update docs/source/en/model_doc/llava_onevision.md
 
-* show tests
+Co-authored-by: amyeroberts &lt;22614925+amyeroberts@users.noreply.github.com&gt;
 
-* oups
-
-* oups
-
-* fix torch job for now
-
-* use single upload setp
-
-* oups
-
-* fu**k
-
-* fix
-
-* nit
-
-* update
-
-* nit
-
-* fix
-
-* fixes
-
-* [test-all]
-
-* add generate marker and generate job
-
-* oups
-
-* torch job runs not generate tests
-
-* let repo utils test all utils
-
-* UPdate
-
-* styling
-
-* fix repo utils test
-
-* more parallel please
-
-* don't test
-
-* update
-
-* bit more verbose sir
-
-* more
-
-* hub were skipped
-
-* split by classname
-
-* revert
-
-* maybe?
-
-* Amazing catch
-
-Co-authored-by: Yih-Dar &lt;2521628+ydshieh@users.noreply.github.com&gt;
-
-* fix
-
-* update
-
-* update
-
-* maybe non capturing
-
-* manual convert?
-
-* pass artifacts as parameters as otherwise the config is too long
-
-* artifact.json
-
-* store output
-
-* might not be safe?
-
-* my token
-
-* mmm?
-
-* use CI job IS
-
-* can't get a proper id?
-
-* ups
-
-* build num
-
-* update
-
-* echo url
-
-* this?
-
-* this!
-
-* fix
-
-* wget
-
-* ish
-
-* dang
-
-* udpdate
-
-* there we go
-
-* update
-
-* update
-
-* pass all
-
-* not .txt
-
-* update
-
-* fetcg
-
-* fix naming
-
-* fix
-
-* up
-
-* update
-
-* update
-
-* ??
-
-* update
-
-* more updates
-
-* update
-
-* more
-
-* skip
-
-* oups
-
-* pr documentation tests are currently created differently
-
-* update
-
-* hmmmm
-
-* oups
-
-* curl -L
-
-* update
-
-* ????
-
-* nit
-
-* mmmm
-
-* ish
-
-* ouf
-
-* update
-
-* ish
-
-* update
-
-* update
-
-* updatea
-
-* nit
-
-* nit
-
-* up
-
-* oups
-
-* documentation_test fix
-
-* test hub tests everything, just marker
-
-* update
-
-* fix
-
-* test_hub is the only annoying one now
-
-* tf threads?
-
-* oups
-
-* not sure what is happening?
-
-* fix?
-
-* just use folder for stating hub
-
-* I am getting fucking annoyed
-
-* fix the test?
-
-* update
-
-* uupdate
-
-* ?
-
-* fixes
-
-* add comment!
-
-* nit
+* add morer info in the doc page
 
 ---------
 
-Co-authored-by: ydshieh &lt;ydshieh@users.noreply.github.com&gt;
-Co-authored-by: Yih-Dar &lt;2521628+ydshieh@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38d58a4</div>
-                                        <div class="message">Fix local repos with remote code not registering for pipelines (#33100)
-
-* Extremely experimental fix!
-
-* Try removing the clause entirely
-
-* Add test
-
-* make fixup
-
-* stash commit
-
-* Remove breakpoint
-
-* Add anti-regression test
-
-* make fixup
-
-* Move repos to hf-internal-testing!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fbff276</div>
-                                        <div class="message">Add warning for stop string edge case (#33169)
-
-* Add warning for edge case
-
-* make fixup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e259d6d</div>
-                                        <div class="message">Add missing quotes in modeling_llava_next_video.py (#33214)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a6956b</div>
-                                        <div class="message">Bump torch from 1.13.1 to 2.2.0 in /examples/research_projects/decision_transformer (#33215)
-
-Bump torch in /examples/research_projects/decision_transformer
-
-Bumps [torch](https://github.com/pytorch/pytorch) from 1.13.1 to 2.2.0.
-- [Release notes](https://github.com/pytorch/pytorch/releases)
-- [Changelog](https://github.com/pytorch/pytorch/blob/main/RELEASE.md)
-- [Commits](https://github.com/pytorch/pytorch/compare/v1.13.1...v2.2.0)
-
----
-updated-dependencies:
-- dependency-name: torch
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4987463</div>
-                                        <div class="message">Bump torch from 1.13.1 to 2.2.0 in /examples/research_projects/codeparrot (#33173)
-
-Bump torch in /examples/research_projects/codeparrot
-
-Bumps [torch](https://github.com/pytorch/pytorch) from 1.13.1 to 2.2.0.
-- [Release notes](https://github.com/pytorch/pytorch/releases)
-- [Changelog](https://github.com/pytorch/pytorch/blob/main/RELEASE.md)
-- [Commits](https://github.com/pytorch/pytorch/compare/v1.13.1...v2.2.0)
-
----
-updated-dependencies:
-- dependency-name: torch
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b127fb8</div>
-                                        <div class="message">Pipeline: fix bad generation kwargs docs (#33205)
-
-fix link</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#33211 add self.head_dim for VisionAttention in Qwen2-VL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by GeLee-Q in <span class="repo">huggingface/transformers</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            We'll merge #33161 soon, which should add more tests and fix slow CI. You can then rebase
-                                            <code>main</code>
-                                            to get a green CI :)
-                                        </i>
-                                        Okay, thank you. I've seen their modifications and commits. The test code has resolved the precision and OOM (Out of Memory) issues. My modifications to the test code should be unnecessary now.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#33211 add self.head_dim for VisionAttention in Qwen2-VL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by GeLee-Q in <span class="repo">huggingface/transformers</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            oh, yes. You need a commit of that message.
-as you can see, so far it is
-                                            <i>PR slow CI / Run all tests for the model (pull_request) Skipped</i>
-                                        </i>
-                                        Okay, thanks
+Co-authored-by: amyeroberts &lt;22614925+amyeroberts@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2056,7 +1557,7 @@ as you can see, so far it is
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2024, 17:20:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Sept 2024, 18:19:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
