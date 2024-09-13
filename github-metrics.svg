@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="858" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1151" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            32 issue comments
+                            33 issue comments
                         </div>
                     </section>
                     <section>
@@ -1231,6 +1231,612 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 56 commits in
+                                        <span class="repo">GeLee-Q/transformers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0574fa6</div>
+                                        <div class="message">Adjust templates (#33384)
+
+* Adjust templates
+
+* Update .github/ISSUE_TEMPLATE/bug-report.yml
+
+Co-authored-by: Arthur &lt;48595927+ArthurZucker@users.noreply.github.com&gt;
+
+* Chat templates
+
+---------
+
+Co-authored-by: Arthur &lt;48595927+ArthurZucker@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65bb284</div>
+                                        <div class="message">Compile compatibilty for decoder-only models (#32617)
+
+* squash into one commit
+
+* add qwen2-vl for rope standardization
+
+* fix mistral compile
+
+* fix qwen2-vl
+
+* fix-copies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eedd21b</div>
+                                        <div class="message">Fixed Majority of the Typos in `transformers[en]` Documentation (#33350)
+
+* Fixed typo: insted to instead
+
+* Fixed typo: relase to release
+
+* Fixed typo: nighlty to nightly
+
+* Fixed typos: versatible, benchamarks, becnhmark to versatile, benchmark, benchmarks
+
+* Fixed typo in comment: quantizd to quantized
+
+* Fixed typo: architecutre to architecture
+
+* Fixed typo: contibution to contribution
+
+* Fixed typo: Presequities to Prerequisites
+
+* Fixed typo: faste to faster
+
+* Fixed typo: extendeding to extending
+
+* Fixed typo: segmetantion_maps to segmentation_maps
+
+* Fixed typo: Alternativelly to Alternatively
+
+* Fixed incorrectly defined variable: output to output_disabled
+
+* Fixed typo in library name: tranformers.onnx to transformers.onnx
+
+* Fixed missing import: import tensorflow as tf
+
+* Fixed incorrectly defined variable: token_tensor to tokens_tensor
+
+* Fixed missing import: import torch
+
+* Fixed incorrectly defined variable and typo: uromaize to uromanize
+
+* Fixed incorrectly defined variable and typo: uromaize to uromanize
+
+* Fixed typo in function args: numpy.ndarry to numpy.ndarray
+
+* Fixed Inconsistent Library Name: Torchscript to TorchScript
+
+* Fixed Inconsistent Class Name: OneformerProcessor to OneFormerProcessor
+
+* Fixed Inconsistent Class Named Typo: TFLNetForMultipleChoice to TFXLNetForMultipleChoice
+
+* Fixed Inconsistent Library Name Typo: Pytorch to PyTorch
+
+* Fixed Inconsistent Function Name Typo: captureWarning to captureWarnings
+
+* Fixed Inconsistent Library Name Typo: Pytorch to PyTorch
+
+* Fixed Inconsistent Class Name Typo: TrainingArgument to TrainingArguments
+
+* Fixed Inconsistent Model Name Typo: Swin2R to Swin2SR
+
+* Fixed Inconsistent Model Name Typo: EART to BERT
+
+* Fixed Inconsistent Library Name Typo: TensorFLow to TensorFlow
+
+* Fixed Broken Link for Speech Emotion Classification with Wav2Vec2
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed minor missing word Typo
+
+* Fixed Punctuation: Two commas
+
+* Fixed Punctuation: No Space between XLM-R and is
+
+* Fixed Punctuation: No Space between [~accelerate.Accelerator.backward] and method
+
+* Added backticks to display model.fit() in codeblock
+
+* Added backticks to display openai-community/gpt2 in codeblock
+
+* Fixed Minor Typo: will to with
+
+* Fixed Minor Typo: is to are
+
+* Fixed Minor Typo: in to on
+
+* Fixed Minor Typo: inhibits to exhibits
+
+* Fixed Minor Typo: they need to it needs
+
+* Fixed Minor Typo: cast the load the checkpoints To load the checkpoints
+
+* Fixed Inconsistent Class Name Typo: TFCamembertForCasualLM to TFCamembertForCausalLM
+
+* Fixed typo in attribute name: outputs.last_hidden_states to outputs.last_hidden_state
+
+* Added missing verbosity level: fatal
+
+* Fixed Minor Typo: take To takes
+
+* Fixed Minor Typo: heuristic To heuristics
+
+* Fixed Minor Typo: setting To settings
+
+* Fixed Minor Typo: Content To Contents
+
+* Fixed Minor Typo: millions To million
+
+* Fixed Minor Typo: difference To differences
+
+* Fixed Minor Typo: while extract To which extracts
+
+* Fixed Minor Typo: Hereby To Here
+
+* Fixed Minor Typo: addition To additional
+
+* Fixed Minor Typo: supports To supported
+
+* Fixed Minor Typo: so that benchmark results TO as a consequence, benchmark
+
+* Fixed Minor Typo: a To an
+
+* Fixed Minor Typo: a To an
+
+* Fixed Minor Typo: Chain-of-though To Chain-of-thought</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#489cbfd</div>
+                                        <div class="message">Add visit webpage tool (#33353)
+
+* Add VisitWebpageTool</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62aecd8</div>
+                                        <div class="message">schedulefree optimizers (#30079)
+
+* schedulefree optimizers
+
+* fix train instead of eval for optimizer
+
+* fixes and update docs
+
+* chore: lint
+
+* add tests and drop overly-verbose _32bit suffix
+
+* chore: lint
+
+* fix for docs
+
+* fix code review issues
+
+* use duck-typing to avoid per-optimizer patches
+
+* fixup style
+
+* fixup style
+
+* warn if incorrect accelerate version with schedule free
+
+Co-authored-by: Aman Gupta Karmani &lt;aman@tmm1.net&gt;
+
+---------
+
+Co-authored-by: Aman Karmani &lt;aman@tmm1.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60226fd</div>
+                                        <div class="message">Fix quantized cache tests (#33351)
+
+* fix
+
+* fix
+
+* better fix
+
+* Update src/transformers/generation/configuration_utils.py
+
+Co-authored-by: Lysandre Debut &lt;hi@lysand.re&gt;
+
+---------
+
+Co-authored-by: Lysandre Debut &lt;hi@lysand.re&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66bc4de</div>
+                                        <div class="message">add sdpa mbart (#32033)
+
+* add sdpa mbart
+
+useful for donut
+
+* update sdpa docs
+
+* formatting
+
+* add self._use_sdpa in mbartencoder
+
+* use self.config to check attn
+
+* retrigger checks
+
+* [run-slow] mbart</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a70286f</div>
+                                        <div class="message">Update author for QLorA/PEFT community notebook (#33338)
+
+update author
+
+Signed-off-by: Daniel Lok &lt;daniel.lok@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7b04ea</div>
+                                        <div class="message">Fix Prefill docs (#33352)
+
+last -&gt; final</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ff6069</div>
+                                        <div class="message">RoPE: fix BC warning (#33331)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d75700</div>
+                                        <div class="message">red-ci on main, fix copies (#33356)
+
+* fix copies
+
+* ???</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e48e5f1</div>
+                                        <div class="message">Support reading tiktoken tokenizer.model file (#31656)
+
+* use existing TikTokenConverter to read tiktoken tokenizer.model file
+
+* del test file
+
+* create titktoken integration file
+
+* adding tiktoken llama test
+
+* ALTNATIVE IMPLEMENTATION: supports llama 405B
+
+* fix one char
+
+* remove redundant line
+
+* small fix
+
+* rm unused import
+
+* flag for converting from tiktokeng
+
+* remove unneeded file
+
+* ruff
+
+* remove llamatiktokenconverter, stick to general converter
+
+* tiktoken support v2
+
+* update test
+
+* remove stale changes
+
+* udpate doc
+
+* protect import
+
+* use is_protobuf_available
+
+* add templateprocessor in tiktokenconverter
+
+* reverting templateprocessor from tiktoken support
+
+* update test
+
+* add require_tiktoken
+
+* dev-ci
+
+* trigger build
+
+* trigger build again
+
+* dev-ci
+
+* [build-ci-image] tiktoken
+
+* dev-ci
+
+* dev-ci
+
+* dev-ci
+
+* dev-ci
+
+* change tiktoken file name
+
+* feedback review
+
+* feedback rev
+
+* applying feedback, removing tiktoken converters
+
+* conform test
+
+* adding docs for review
+
+* add doc file for review
+
+* add doc file for review
+
+* add doc file for review
+
+* support loading model without config.json file
+
+* Revert "support loading model without config.json file"
+
+This reverts commit 2753602e51c34cef2f184eb11f36d2ad1b02babb.
+
+* remove dev var
+
+* updating docs
+
+* safely import protobuf
+
+* fix protobuf import error
+
+* fix protobuf import error
+
+* trying isort to fix ruff error
+
+* fix ruff error
+
+* try to fix ruff again
+
+* try to fix ruff again
+
+* try to fix ruff again
+
+* doc table of contents
+
+* add fix for consistency.dockerfile torchaudio
+
+* ruff
+
+* applying feedback
+
+* minor typo
+
+* merging with push-ci-image
+
+* clean up imports
+
+* revert dockerfile consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#342e800</div>
+                                        <div class="message">support 3D attention mask in bert (#32105)
+
+* support 3D/4D attention mask in bert
+
+* test cases
+
+* update doc
+
+* fix doc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b18354</div>
+                                        <div class="message">add self.head_dim for VisionAttention in Qwen2-VL (#33211)
+
+* add self.head_dim for VisionAttention in Qwen2-VL
+
+* add self.head_dim for VisionAttention in Qwen2-VL
+
+* fix ci
+
+* black the test_modeling_qwen2_vl.py
+
+* use ruff to format test_modeling_qwen2_vl.py
+
+* [run-slow] qwen2_vl
+
+* use tying for python3.8
+
+* fix the import format
+
+* use ruff to fix the ci error I001
+
+* [run-slow] qwen2_vl
+
+* remove unused import
+
+* commit for rebase
+
+* use ruff fix ci
+
+* [run-slow] qwen2_vl
+
+---------
+
+Co-authored-by: root &lt;liji&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3314fe1</div>
+                                        <div class="message">Add validation for maximum sequence length in modeling_whisper.py (#33196)
+
+* Add validation for maximum sequence length in modeling_whisper.py
+
+Added a validation check to ensure that the sequence length of labels does not exceed the maximum allowed length of 448 tokens. If the sequence length exceeds this limit, a ValueError is raised with a descriptive error message.
+
+This change prevents the model from encountering errors or unexpected behavior due to excessively long sequences during training or fine-tuning, ensuring consistent input dimensions and improving overall robustness.
+
+* Change exception message in src/transformers/models/whisper/modeling_whisper.py
+
+The exception message is for whisper's label's sequence max length.
+
+Co-authored-by: Yoach Lacombe &lt;52246514+ylacombe@users.noreply.github.com&gt;
+
+* Change 448 to config.max_target_positions in src/transformers/models/whisper/modeling_whisper.py
+
+It's for whisper's config.max_target_positions.
+
+Co-authored-by: Yoach Lacombe &lt;52246514+ylacombe@users.noreply.github.com&gt;
+
+* Change method's documentation in src/transformers/models/whisper/modeling_whisper.py
+
+* Add test for maximum label's sequence length in test_modeling_whisper.py
+
+* Add self to modeling_whisper.py
+
+* Update test_modeling_whisper.py with respect to automatic validations
+
+* Update modeling_whisper.py with respect to ci/circleci: check_code_quality
+
+* Update test_modeling_whisper.py with respect to ci/circleci: check_code_quality
+
+* Update test_modeling_whisper.py with respect to ci/circleci: tests_generate
+
+* Update test_modeling_whisper.py with respect to ci/circleci: tests_generate
+
+* Update test_modeling_whisper.py with respect to ci/circleci: check_code_quality
+
+* Separate test_labels_sequence_max_length tests in test_modeling_whisper.py
+
+* Update test_modeling_whisper.py with respect to ci/circleci: check_code_quality
+
+* Remove assert from test_modeling_whisper.py
+
+* Add max_target_positions to WhisperModelTester in test_modeling_whisper.py
+
+* Update test_modeling_whisper.py with respect to ci/circleci: check_code_quality
+
+* Update test_modeling_whisper.py with respect to ci/circleci: tests_generate
+
+* Update test_modeling_whisper.py
+
+* Change test_labels_sequence_max_length_error_after_changing_config in test_modeling_whisper.py
+
+* Change self.config.max_target_positions to self.max_target_positions modeling_whisper.py
+
+* Add new tests in test_modeling_whisper.py
+
+* Update test_modeling_whisper.py
+
+---------
+
+Co-authored-by: Yoach Lacombe &lt;52246514+ylacombe@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#363301f</div>
+                                        <div class="message">support loading model without config.json file (#32356)
+
+* support loading model without config.json file
+
+* fix condition
+
+* update tests
+
+* add test
+
+* ruff
+
+* ruff
+
+* ruff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1c2b69</div>
+                                        <div class="message">Load dynamic module (remote code) only once if code isn't change (#33162)
+
+* Load remote code only once
+
+* Use hash as load indicator
+
+* Add a new option `force_reload` for old behavior (i.e. always reload)
+
+* Add test for dynamic module is cached
+
+* Add more type annotations to improve code readability
+
+* Address comments from code review</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bd9d1c</div>
+                                        <div class="message">fix qwen2vl vision eager-attention (#33213)
+
+* fix-qwen2vl-vision-eager-attention
+
+* code-quality
+
+* Update src/transformers/models/qwen2_vl/modeling_qwen2_vl.py
+
+Co-authored-by: Arthur &lt;48595927+ArthurZucker@users.noreply.github.com&gt;
+
+* code-quality
+
+---------
+
+Co-authored-by: Arthur &lt;48595927+ArthurZucker@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51d15eb</div>
+                                        <div class="message">[whisper] alternative fix for long-form timestamps (#32131)
+
+* [whisper] alternative fix for long-form timestamps
+
+* update test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b789f2</div>
+                                        <div class="message">Docs: add more cross-references to the KV cache docs (#33323)
+
+* add more cross-references
+
+* nit
+
+* import guard
+
+* more import guards
+
+* nit
+
+* Update src/transformers/generation/configuration_utils.py</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1290,67 +1896,12 @@ Otherwise this sounds very much reasonable. I think llama sometimes suffers from
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#33312 Fix qwen2vl float16 inference bug</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by GeLee-Q in <span class="repo">huggingface/transformers</span></div>
-                                    <div class="comment">
-                                        <i>Approving, but let's make sure you run the slow tests actually! Broad support it probably more important than speed here!</i>
-                                        @ArthurZucker Hello, my slow test has been completed. This operation incurs some overhead, but it's not significant. It accounts for 0.6% of the total overhead of all operators. Trading this small overhead for improved accuracy is, in my opinion, acceptable overall.
-                                        <b>Comparison results</b>
-                                        input-pic  https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-VL/assets/demo.jpeg
-input-text "Describe this image."
-                                        <b>nsys profile</b>
-                                        <code class="language-multiline" xml:space="preserve">if query_states.dtype == torch.float16:
-     attn_weights = torch.where(torch.isinf(attn_weights), torch.zeros_like(attn_weights), attn_weights)</code>
-                                        Time (%)
-Total Time (ns)
-Num Calls
-Avg (ns)
-Med (ns)
-Min (ns)
-Max (ns)
-StdDev (ns)
-Name
-
-
-
-0.6
-26321648
-3248
-8104.0
-2816.0
-2175
-624031
-57133.6
-void at::native::vectorized_elementwise_kernel&lt;(int)4, at::native::::where_kernel_impl(at:.
-                                        <b>test code</b>
-                                        <code class="language-multiline" xml:space="preserve">...
-
-<span class="token trimmed">(18 more lines were trimmed)</span></code>
-                                        <b>change dtype</b>
-                                        <code class="language-multiline" xml:space="preserve"># fp32, fp16, bf16 for torch_dtype
-model = Qwen2VLForConditionalGeneration.from_pretrained(
-<span class="token trimmed">(4 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 22:17:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 23:20:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
