@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="802" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1190" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet.additions{color:#336543}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1248,6 +1248,852 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 396 commits in
+                                        <span class="repo">GeLee-Q/verl</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#432f9e9</div>
+                                        <div class="message">[feat][BREAKING] Megatron support dynamic batch size, to rebalance the workloads (#1617)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+1. Megatron support dynamic batch size, to rebalance the workloads.
+2. Fix missing critic metrics.
+
+### High-Level Design
+
+Follow the FSDP's dynamic batch size.
+
+### Specific Changes
+
+Use the `rearrange_micro_batches` API, but compatible with Megatron VPP
+constraints.
+
+```py
+vpp_size = mpu.get_virtual_pipeline_model_parallel_world_size()
+if vpp_size is not None and vpp_size &gt; 1:
+    microbatch_group_size_per_vp_stage = self.tf_config.microbatch_group_size_per_vp_stage
+    micro_batches, indices = rearrange_micro_batches(batch=mini_batch.batch, num_batches_devided_by=microbatch_group_size_per_vp_stage, max_token_len=max_token_len)
+    assert len(micro_batches) % self.tf_config.microbatch_group_size_per_vp_stage == 0, f"micro_batches {micro_batches} must be divisible by microbatch_group_size_per_vp_stage {microbatch_group_size_per_vp_stage} for megatron backend"
+else:
+    micro_batches, indices = rearrange_micro_batches(batch=mini_batch.batch, max_token_len=max_token_len)
+```
+
+@vermouth1992 please check whether it makes sense.
+
+Megatron's constraint when using interleaving pipeline:
+
+```py
+# If the final micro-batch group has fewer micro-batches than pipeline-parallel size,
+    # the pipeline will have dependency bubbles.
+    final_microbatch_group_size = num_microbatches % config.microbatch_group_size_per_vp_stage
+    if 0 &lt; final_microbatch_group_size &lt; pipeline_parallel_size:
+        msg = 'The remainder of M (the total micro-batches) divided by N (number of '
+        msg += 'contiguous micro-batches in a virtual pipeline stage) should be 0, '
+        msg += 'or larger than or equal to the pipeline-parallel size, but it is '
+        msg += f'{final_microbatch_group_size}. '
+        msg += 'Otherwise, it introduces dependency bubbles in the pipeline '
+        msg += 'and reduces throughput.'
+        raise RuntimeError(msg)
+```
+
+### API
+
+Megatron forward_backward_batch has changed input, and the output has
+become a dict, containing original `output` and the `indices` needed for
+compute_old_log_probs.
+
+### Usage Example
+
+```bash
+    actor_rollout_ref.actor.use_dynamic_bsz=${USE_DYNAMIC_BSZ} \
+    actor_rollout_ref.actor.ppo_max_token_len_per_gpu=${ppo_max_token_len_per_gpu} \
+    critic.ppo_max_token_len_per_gpu=${forward_max_token_len_per_gpu} \
+```
+
+Other models will directly copy the config.
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [x] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99e749a</div>
+                                        <div class="message">Fix Configuration for Micro Batch Size in Megatron's Ref Policy (#1700)
+
+### What does this PR do?
+
+ Fix Configuration for Micro Batch Size in Megatron's Ref Policy
+
+### High-Level Design
+This pull request addresses an issue with the micro batch size
+configuration in the ref policy of Megatron. The default
+ppo_megatron_trainer.yaml only includes two configurations:
+log_prob_micro_batch_size and log_prob_micro_batch_size_per_gpu.
+
+https://github.com/volcengine/verl/blob/54c9b7364c2d188b2ba4107404cfa3c2b446df19/verl/trainer/config/ppo_megatron_trainer.yaml#L119-L120
+However, in `megatron_workers.py`, the required configuration is
+ref.log_prob_micro_batch_size_per_gpu
+
+https://github.com/volcengine/verl/blob/54c9b7364c2d188b2ba4107404cfa3c2b446df19/verl/workers/megatron_workers.py#L517-L518
+or in `megatron_actor.py ` the required configuration is
+ref.ppo_micro_batch_size_per_gpu,
+
+https://github.com/volcengine/verl/blob/54c9b7364c2d188b2ba4107404cfa3c2b446df19/verl/workers/actor/megatron_actor.py#L271-L274
+
+which are not directly related to ppo_micro_batch_size.
+
+To resolve this, I have made modifications to the configuration
+calculations and added raise ValueError statements to ensure that the
+necessary parameters are correctly defined.
+
+This update ensures that the required parameters are properly handled,
+preventing runtime errors and improving the overall robustness of the
+training process.
+
+### Changes Made:
+
+- Modified the configuration calculations in megatron_workers.py.
+
+- Added raise ValueError statements to check for the presence of
+log_prob_micro_batch_size_per_gpu and ppo_micro_batch_size_per_gpu.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b186ed</div>
+                                        <div class="message">Update README.md (#1731)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+This PR updates the README.md for the SPIN recipe to improve accuracy
+and completeness. Key changes include corrections and additions to the
+method description, the inclusion of related Works, and a more concise
+introduction.
+
+### High-Level Design
+
+N/A - Focuses on documentation improvements for clarity and accuracy.
+
+### Specific Changes
+
+- Corrected and supplemented the description of the SPIN methodology.
+- Inclusion of related Works along with concise introductions to
+relevant papers/concepts.
+- Refined and clarified the introductory sections of the README.
+
+### API
+
+N/A - Changes are limited to README.md documentation.
+
+### Usage Example
+
+N/A - This PR does not primarily focus on usage examples, but rather on
+descriptive content.
+
+```python
+# No new standalone code snippets are part of this PR itself.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5570c4</div>
+                                        <div class="message">[mics][fix] Deprecate legacy `_default_compute_score` API and fix ray utils test (#1729)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+Handle comments after #1397 being merged:
+
+1. Add back `_default_compute_score` API and mark it as deprecated;
+2. Fix a broken ci test `ray_utils_test` on `parallel_put`;
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [ ] Add CI test(s) if necessary.
+
+---------
+
+Signed-off-by: Hongpeng Guo &lt;hg5@illinois.edu&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16a13d8</div>
+                                        <div class="message">[misc] feat: support logging rollout prob vs. actor probs for debugging purpose (#1712)
+
+### Checklist Before Starting
+
+- [X] Search for similar PR(s).
+
+### What does this PR do?
+
+- Support logging rollout probs vs. actor probs for debugging purpose
+- Support both vllm and sglang async
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+&gt; List the specific changes.
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [ ] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [ ] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [ ] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34e409b</div>
+                                        <div class="message">[docs] refactor: Adding doc strings and doc pages for public methods in `trainer` and `utils` (#1397)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+* This PR adds doc string for the public methods inside `trainer` and
+`utils` module, so that these methods can be reused and referenced
+better.
+* Two new doc page `PPO Trainer Interface` and `Utilities` were also
+provided under the API Reference section.
+* Renamed one function `verl.utils._default_compute_score` to
+`verl.utils.default_compute_score`, as it was an external function used
+by other modules, i.e., trainer and recipe;
+
+&lt;img width="1093" alt="Screenshot 2025-05-26 at 9 20 31 PM"
+src="https://github.com/user-attachments/assets/e361e6bd-a33b-426b-85b4-9fe93ab1e398"
+/&gt;
+
+
+### TODO
+This is the second of a series of PRs to improve and stabilize the docs
+and API. Stacked on top of #1396
+TODO includes adding more useful utility functions to the doc with
+improved doc strings.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [x] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if neccessary.
+
+---------
+
+Signed-off-by: Hongpeng Guo &lt;hg5@illinois.edu&gt;
+Co-authored-by: H &lt;linhaibin.eric@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d3ca21</div>
+                                        <div class="message">[CI] disable e2e_prime, always hang for 50 minutes (#1728)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54b2677</div>
+                                        <div class="message">Add dstack example (#2) (#1706)
+
+Co-authored-by: Bihan  Rana &lt;bihan@Bihans-MacBook-Pro.local&gt;
+Co-authored-by: peterschmidt85 &lt;andrey.cheptsov@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9846360</div>
+                                        <div class="message">fix TimeoutError in aiohttp (#1702)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4583e4c</div>
+                                        <div class="message">[Doc] Add a visual explanation of the configuration to the documentation (#1709)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+Add a visual explanation of the configuration to the documentation
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [x] Add `[BREAKING]` to the PR title if it breaks any API.
+- [x] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fe1839</div>
+                                        <div class="message">[CI] fix some tests scope (#1689)
+
+### Checklist Before Starting
+
+- [ ] Search for similar PR(s).
+
+### What does this PR do?
+
+Refactor and reduce some tests scope to reduce unrelated tests.
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+&gt; List the specific changes.
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [ ] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [ ] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8298f7d</div>
+                                        <div class="message">[Bugfix] Fix for non_fused_kernels passing arguments (#1687)
+
+### Checklist Before Starting
+
+- [ ] Search for similar PR(s).
+
+### What does this PR do?
+
+Non_fused_kernels passing arguments error causes Qwen2_5_VL failed.
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+&gt; List the specific changes.
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [ ] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [ ] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.
+
+---------
+
+Co-authored-by: hoshi-hiyouga &lt;hiyouga@buaa.edu.cn&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54c9b73</div>
+                                        <div class="message">update ascend_quick_start doc (#1685)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+update ascend_quick_start.rst
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+1. rename ascend_quick_start.rst
+2. add the accuracy and throughput data of GRPO.
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [x] Add `[BREAKING]` to the PR title if it breaks any API.
+- [x] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d5f15f</div>
+                                        <div class="message">[fix] use correct variable for saving hf model (#1681)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c60546d</div>
+                                        <div class="message">[misc] fix: fix device (#1671)
+
+### Checklist Before Starting
+
+- [X] Search for similar PR(s).
+
+### What does this PR do?
+
+Currently, the device to run on depends on whether `is_cuda_available`
+is True on the driver process. However, the driver process may be a CPU
+process that can't see cuda devices even when cuda devices are
+available. Thus, it's not appropriate to use `is_cuda_available` to set
+the device. Instead, we should set the device explicitly.
+
+In the future, we may have a ray cluster with both NPU and GPU, and we
+can use different devices for different workloads. Thus, setting device
+explicitly would be a better choice in the long run.
+
+Why CI can't trigger this problem: because we directly run `python3 xxx`
+on CI machine instead of using a standard ray cluster that has dedicated
+CPUs for head. CI machines all have GPUs.
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+&gt; List the specific changes.
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [ ] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [ ] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [ ] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4532308</div>
+                                        <div class="message">[misc] fix: fix megatron entropy (#1672)
+
+### Checklist Before Starting
+
+- [ ] Search for similar PR(s).
+
+### What does this PR do?
+
+In megatron-core, `vocab_parallel_log_probs_from_logits` is an inplace
+operator that would modify the logits in place to save memory. This
+makes the `vocab_parallel_entropy` produces incorrect results if
+`vocab_parallel_entropy` is computed after
+`vocab_parallel_log_probs_from_logits`. We swap the order to make sure
+the result is correct.
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+&gt; List the specific changes.
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [ ] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [ ] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [ ] Add `[BREAKING]` to the PR title if it breaks any API.
+- [ ] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [ ] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d26d73</div>
+                                        <div class="message">modify the installation method of vllm on different architectures and hyperlink (#1673)
+
+…res and hyperlink
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+modify the installation method of vllm on different architectures and
+hyperlink
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+1、modify the installation method of vllm on different architectures
+2、modify syntax of hyperlink 
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [x] Add `[BREAKING]` to the PR title if it breaks any API.
+- [x] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf731e8</div>
+                                        <div class="message">[sglang] Fix megatron support in sglang and add sglang_async support &amp; CI tasks (#1602)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+&gt; Add one-line overview of what this PR aims to achieve or accomplish. 
+
+- Fix sglang megatron support
+- Add sglang_async megatron support
+- Add CI task to protect megatron-sglang impl
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+
+https://wandb.ai/swordfaith/gsm8k_async_rl/runs/6h7apmbn?nw=nwuserswordfaith
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: SGLang
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [x] Add `[BREAKING]` to the PR title if it breaks any API.
+- [x] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.
+
+---------
+
+Co-authored-by: BlueSpace &lt;gaoziyuan19@mails.ucas.ac.cn&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69582dc</div>
+                                        <div class="message">Add verl-agent and GiGPO to the awesome work list (#1660)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c048ac</div>
+                                        <div class="message">modify the instructions for using verl on ASCEND NPU (#1670)
+
+### Checklist Before Starting
+
+- [x] Search for similar PR(s).
+
+### What does this PR do?
+
+modify the instructions for using verl on ASCEND NPU
+
+### High-Level Design
+
+&gt; Demonstrate the high-level design if this PR is complex.
+
+### Specific Changes
+
+1、Modify table format
+2、Modify the installation method of vllm and vllm-ascend
+
+### API
+
+&gt; Demonstrate how the API changes if any.
+
+### Usage Example
+
+&gt; Provide usage example(s) for easier usage.
+
+```python
+# Add code snippet or script demonstrating how to use this 
+```
+
+### Test
+
+&gt; For changes that can not be tested by CI (e.g., algorithm
+implementation, new model support), validate by experiment(s) and show
+results like training curve plots, evaluatuion results, etc.
+
+### Additional Info.
+
+- **Issue Number**: Fixes issue # or discussion # if any.
+- **Training**: [Note which backend this PR will affect: FSDP, Megatron,
+both, or none]
+- **Inference**: [Note which backend this PR will affect: vLLM, SGLang,
+both, or none]
+
+### Checklist Before Submitting
+
+- [x] Read the [Contribute
+Guide](https://github.com/volcengine/verl?tab=readme-ov-file#contribution-guide).
+- [x] Apply [pre-commit
+checks](https://github.com/volcengine/verl?tab=readme-ov-file#code-linting-and-formatting).
+- [x] Add `[BREAKING]` to the PR title if it breaks any API.
+- [x] Update the documentation about your changes in the
+[docs](https://github.com/volcengine/verl/tree/main/docs).
+- [x] Add CI test(s) if necessary.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1309,7 +2155,7 @@ Concurrently, this new environment has introduced a regression. We are now encou
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2025, 23:27:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2025, 00:31:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
