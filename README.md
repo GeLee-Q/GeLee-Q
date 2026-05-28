@@ -1,2 +1,4 @@
 - 📫 How to reach me leege233@gmail.com
-
+- homepage： https://jibao2ai.vercel.app/
+- pr tracker：https://pr-tracker-web.vercel.app/
+- slide read: https://gelee-q.github.io/read_slides/
